@@ -1,0 +1,18 @@
+{
+    "name": "com.kimsongd.custom-package-test",
+    "displayName": "Custom Package Test",
+    "version": "0.1.0",
+    "description": "Custom package for test and practice",
+    "samples": [
+        {
+            "displayName": "CustomPackageTestSample",
+            "description": "Sample of Custom Package Test",
+            "path": "Samples~"
+        }
+    ],
+    "author": {
+        "name": "SongD",
+        "email": "dylanhayunsong@gmail.com",
+        "url": "https://github.com/DylanHayunSong"
+    }
+}
